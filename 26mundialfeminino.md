@@ -148,7 +148,8 @@ Desafios para Países de Baixa Eficiência: Os países no final da lista (Congo,
 
 A altura não é o fator primordial para a eficiência da goleira. Isso reforça que atributos como técnica de defesa, agilidade, posicionamento e capacidade de leitura do jogo são mais relevantes para o sucesso na posição.
 
-
 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDk4ZWJmMjAtOGNlZS00OWI0LWFhMjQtYzBkMmZhMjQ5NDc1IiwidCI6ImE5MWY1ZjM3LThmMzMtNDNlMi04MGJhLThkNzQ5YTVkZWQ1MSJ9)
+
+![Campeonato Mundial Feminino](images/26%20mundial%20feminino.png)
 
 [Home](https://tamirisguerreiro.github.io/site)
