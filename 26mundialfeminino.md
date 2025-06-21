@@ -72,63 +72,12 @@ Média como Divisor: A média de 32,43% atua como um bom ponto de corte, com os 
 
 ## **Análise das Atletas**
 
-#### Eficiência Excepcional (40%+):
-
-* BATINOVIC Marta (Montenegro): 51% de eficiência com 40 defesas. Líder clara e isolada, seu desempenho é um fator chave para a alta média de Montenegro.
-SOLBERG
-* Silje Margaretha (Noruega): 40% de eficiência com 65 defesas. Excelente desempenho, contribuindo significativamente para a Noruega.
-
-#### Alta Eficiência (35% - 39%):
-
-* TEN HOLTE Yara (Holanda): 38% de eficiência com 79 defesas. Apresenta alto volume de defesas e alta eficiência, mostrando consistência.
-* PUJEVIĆ Tea (Croácia): 37% de eficiência com 41 defesas.
-* BÖDE-BIRÓ Blanka (Hungria): 36% de eficiência com 58 defesas.
-* BUNDSEN Johanna (Suécia): 36% de eficiência com 74 defesas.
-* NOVOTNÁ Sabrina (República Tcheca): 36% de eficiência com 43 defesas.
-* REINHARDT Althea Rebecca (Dinamarca): 36% de eficiência com 52 defesas.
-* WACHTER Sarah (Alemanha): 36% de eficiência com 48 defesas.
-* ARENHART Bárbara (Brasil): 35% de eficiência com 36 defesas. A goleira brasileira com o melhor desempenho detalhado nas tabelas.
-* KUDLÁČKOVÁ Petra (República Tcheca): 35% de eficiência com 87 defesas. Um número impressionante de defesas, indicando que foi extremamente exigida em seus jogos.
-
-#### Eficiência Média (30% - 34%):
-
-* LUNDE Katrine (Noruega): 34% de eficiência com 46 defesas.
-* SAKO Hatadou (França): 34% de eficiência com 44 defesas.
-* RAJIC Marinela (Montenegro): 33% de eficiência com 71 defesas. Curiosamente, outra goleira de Montenegro com uma eficiência menor que Marta, mas com um alto número de defesas. Isso sugere que mesmo com uma goleira de 51%, Montenegro ainda pode ter sofrido muitos arremessos em outros momentos ou com outras goleiras.
-* CASTELLANOS SOANEZ Mercedes (Espanha): 33% de eficiência com 40 defesas.
-* CORTES FUENZALIDA Madeleine Noelia (Chile): 33% de eficiência com 72 defesas. Alto volume de trabalho para o Chile, indicando que sua defesa pode ter sido bastante exposta.
-* RENÓTUDÓTTIR Hafdis (Islândia): 33% de eficiência com 37 defesas.
-* GLAUSER Laura (França): 33% de eficiência com 65 defesas.
-* GONÇALVES DIAS MORESCHI Gabriela (Brasil): 32% de eficiência com 36 defesas. Outra goleira brasileira, com eficiência um pouco abaixo de Bárbara Arenhart.
-* THORSTEINDÓTTIR Elín Jóna (Islândia): 32% de eficiência com 43 defesas.
-* TOFT Sandra (Dinamarca): 32% de eficiência com 49 defesas.
-* ALBERTO Marta Samuel (Angola): 30% de eficiência com 63 defesas.
-* PANODZIĆ Amra (Eslovênia): 30% de eficiência com 38 defesas.
-* TOUBISSA ELBECO Justicia (Senegal): 30% de eficiência com 55 defesas.
-
-#### Baixa Eficiência (Abaixo de 30%):
-
-* CARRATU Marisol (Argentina): 29% de eficiência com 44 defesas.
-* HOSU Daciana (Romênia): 29% de eficiência com 35 defesas.
-* HU Yunuo (R.P. da China): 29% de eficiência com 31 defesas.
-* KHALILI BEHFAR Fatemeh (Irã): 29% de eficiência com 65 defesas. Alto número de defesas para uma eficiência baixa, indicando equipe muito exposta e com dificuldades defensivas.
-* MBEN BEDIANO Isabelle Noelle (Camarões): 29% de eficiência com 44 defesas.
-* FILTER Katharina (Alemanha): 28% de eficiência com 55 defesas.
-* ČOLIĆ Marija (Sérvia): 27% de eficiência com 31 defesas.
-* OCAMPOS MOREL Fatima (Paraguai): 27% de eficiência com 46 defesas.
-* PŁACZEK Adrianna (Polônia): 26% de eficiência com 35 defesas.
-* KODIA Ruth (Congo): 25% de eficiência com 45 defesas.
-* LU Chang (R.P. da China): 22% de eficiência com 34 defesas. A menor eficiência observada, refletindo um desafio significativo para a China na posição.
+A análise da eficiência das goleiras revela desempenhos variados, com Marta Batinovic (Montenegro) liderando com impressionantes 51% de eficiência em 40 defesas, sendo um fator crucial para sua equipe. Silje Margaretha Solberg (Noruega) também se destaca, com 40% de eficiência e um maior volume de 65 defesas. Na alta eficiência (35% a 39%), Yara Ten Holte (Holanda) demonstra consistência com 38% em 79 defesas, e Petra Kudláčková (República Tcheca) impressiona com 87 defesas a 35%, indicando alta exigência. Bárbara Arenhart (Brasil) é a brasileira de melhor desempenho nesta faixa, com 35% em 36 defesas. A categoria de eficiência média (30% a 34%) inclui goleiras com alto volume de trabalho, como Marinela Rajic (Montenegro) (33% em 71 defesas) e Madeleine Noelia Cortes Fuenzalida (Chile) (33% em 72 defesas), sugerindo defesas expostas. Gabriela Gonçalves Dias Moreschi (Brasil) também está nesta faixa (32% em 36 defesas). Por fim, na baixa eficiência (abaixo de 30%), casos como Fatemeh Khalili Behfar (Irã) (29% em 65 defesas) apontam para equipes com dificuldades defensivas. A menor eficiência é de Lu Chang (R.P. da China), com 22% em 34 defesas, refletindo um grande desafio para a China na posição.
 
 ## Dispersão Altura e Eficiência (%):
 
 O gráfico de dispersão permanece consistente em todas as visualizações. Ele mostra que não há uma correlação linear forte entre a altura da goleira e sua eficiência.
-Enquanto as goleiras de alta eficiência tendem a ter alturas entre 1,75m e 1,90m, há exceções e muita variação. Goleiras mais baixas (como CORTES FUENZALIDA Madeleine Noelia com 1,64m) podem ter um bom volume de defesas, mesmo que com menor eficiência percentual em comparação com as tops, sugerindo que outros atributos como agilidade e posicionamento são cruciais.
-Interpretação de "Qtd Jogos" e "Principal":
-
-A hipótese de "Qtd Jogos" ser o número de partidas disputadas (ou com minutos em campo) e "Principal" indicar a quantidade de jogos como goleira titular (ou com a maioria dos minutos) é altamente provável.
-Quando "Qtd Jogos" e "Principal" são iguais ou muito próximos (ex: 9 e 9, 7 e 7), isso indica que a goleira foi a escolha principal em quase todas as partidas.
-O número de defesas por "Qtd Jogos" pode dar uma ideia da média de arremessos que a goleira enfrentou por partida, o que reflete o quão exposta sua equipe estava defensivamente.
+Enquanto as goleiras de alta eficiência tendem a ter alturas entre 1,75m e 1,90m, há exceções e muita variação. Goleiras mais baixas (como CORTES FUENZALIDA Madeleine Noelia com 1,64m) podem ter um bom volume de defesas, mesmo que com menor eficiência percentual em comparação com as tops, sugerindo que outros atributos como agilidade e posicionamento são cruciais. A hipótese de "Qtd Jogos" ser o número de partidas disputadas (ou com minutos em campo) e "Principal" indicar a quantidade de jogos como goleira titular (ou com a maioria dos minutos) é altamente provável. Quando "Qtd Jogos" e "Principal" são iguais ou muito próximos (ex: 9 e 9, 7 e 7), isso indica que a goleira foi a escolha principal em quase todas as partidas. O número de defesas por "Qtd Jogos" pode dar uma ideia da média de arremessos que a goleira enfrentou por partida, o que reflete o quão exposta sua equipe estava defensivamente.
 
 ## Conclusões Abrangentes:
 
