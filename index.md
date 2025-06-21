@@ -1,11 +1,7 @@
 ---
 layout: default
-
-# Meu Portifólio de Dados 📊
-
-## Projeto: Análise do 26º Campeonato Mundial Feminino no Power BI 📈
-
-
-
-
 ---
+
+# Meu Portfólio de Dados 📊
+
+## Projeto 1: Análise de Vendas no Power BI 📈
