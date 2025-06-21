@@ -48,7 +48,7 @@ Criação de novas colunas:
 # Visualização e Insights
 
 Dashboard:
-* Gráficos de Treemap: Top EficiÊncia
+* Gráficos de Treemap: Top Eficiência
 * Gráficos de Dispersão: Dipersão Altura e Eficiência
 * Gráficos de Tabela: Analise de Dados Físicos
 * Gráficos de Barras: Eficiência por País
