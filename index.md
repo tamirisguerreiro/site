@@ -1,7 +1,5 @@
 ------
 layout: defaut
-Title: "# Meu Portifólio de Dados 📊"
+Subtitle: "## Projeto: Análise do 26º Campeonato Mundial Feminino 📈"
 ------
 
-
-## Projeto 1: Análise de Vendas no Power BI 📈
