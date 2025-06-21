@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Projetos e Cases
+# Descrição dos Projetos e Cases
 
 ---
 
