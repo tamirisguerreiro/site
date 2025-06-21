@@ -1,9 +1,7 @@
------
-layout: default
+---
+# Análise do 26º Campeonato Mundial Feminino de IHF
 ---
 
-# Análise do 26º Campeonato Mundial Feminino de IHF
--------
 #### Base de dados: Top Goalkepper - Most Saves
 
 #### Sobre o dataset: 
