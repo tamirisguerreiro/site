@@ -1,3 +1,7 @@
-# Meu Portifólio de Dados 📊
+------
+layout: defaut
+Title: "# Meu Portifólio de Dados 📊"
+------
+
 
 ## Projeto 1: Análise de Vendas no Power BI 📈
