@@ -1,5 +1,9 @@
 ---
+layout: default
+---
+
 # Projetos e Cases
+
 ---
 
 ## [Projeto: Análise do 26º Campeonato Mundial Feminino](./26mundialfeminino.md)
