@@ -1,7 +1,7 @@
 layout: default
 ---
 
-#  Análise dos Resultados do Perfil dos Atletas do Campeonato Mundial Masculino 2025
+#  Análise do Perfil dos Atletas do Campeonato Mundial Masculino 2025
 
 ---
 *Base de dados:* IHF Handball World Champioship 2025 Goalscorers
