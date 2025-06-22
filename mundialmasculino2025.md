@@ -89,6 +89,6 @@ A análise conjunta dos dados traça um perfil coeso da equipe, onde cada posiç
 
 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjY2MTY1YTktNDU4ZC00ODExLTk2ZjAtM2E4NGQ1MDU1ZGQwIiwidCI6ImE5MWY1ZjM3LThmMzMtNDNlMi04MGJhLThkNzQ5YTVkZWQ1MSJ9)
 
-![Mundial Masculino 2025](images/mundial masculino 2025.png)
+![Mundial Masculino 2025](images/26%20mundial%20masculino%202025.png)
 
 [Home](https://tamirisguerreiro.github.io/site)
