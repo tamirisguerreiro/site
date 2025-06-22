@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 #  Análise do Perfil dos Atletas do Campeonato Mundial Masculino 2025
 
 ---
