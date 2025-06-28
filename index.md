@@ -13,6 +13,6 @@ Este trabalho detalha a **análise do desempenho das goleiras** no 26º Campeona
 
 ---
 
-## [Projeto: Análise do Perfil dos Atletas do Campeonato Mundial Masculino 2025](./mundialmasculino2025.md)
+## [Projeto: Análise do Perfil dos Atletas do Campeonato Mundial de Handebol Masculino 2025](./mundialmasculino2025.md)
 
 Este projeto **analisou dados de atletas de handebol** para criar um perfil detalhado de cada posição. Descobrimos que o **físico influencia o jogo** e que a **eficiência nos arremessos varia bastante** entre as posições e tipos de jogada (7 metros vs. jogo normal). A ideia é usar esses insights para otimizar treinamentos e estratégias de jogo.
