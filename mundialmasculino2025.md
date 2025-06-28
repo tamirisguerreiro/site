@@ -87,7 +87,7 @@ A análise conjunta dos dados traça um perfil coeso da equipe, onde cada posiç
 * Precisão e Organização Central: O "Centre Back" é o maestro do ataque, demonstrando precisão crucial em 7 metros e uma boa capacidade de finalização no jogo regular, além de um perfil físico que favorece a agilidade na distribuição. O "Pivot" é o finalizador de excelência próximo ao gol, convertendo as oportunidades geradas.
 
 
-[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjY2MTY1YTktNDU4ZC00ODExLTk2ZjAtM2E4NGQ1MDU1ZGQwIiwidCI6ImE5MWY1ZjM3LThmMzMtNDNlMi04MGJhLThkNzQ5YTVkZWQ1MSJ9)
+[**Clique Aqui para Ver o Dashboard do Mundial de Handebol Masculino 2025**](https://app.powerbi.com/view?r=eyJrIjoiYzJjMzc5MmQtMmEyMi00OTQ3LWJlMzctODIzYjg5Yzg1ZTUwIiwidCI6ImE5MWY1ZjM3LThmMzMtNDNlMi04MGJhLThkNzQ5YTVkZWQ1MSJ9)
 
 ![Mundial Masculino 2025](images/26%20mundial%20masculino%202025.png)
 
