@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#  Análise do 26º Campeonato Mundial de Handebol Feminino
+#  Análise do 26º Campeonato Mundial de Handebol Feminino 
 
 ---
 *Base de dados:* Top Goalkepper - Most Saves
