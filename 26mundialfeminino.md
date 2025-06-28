@@ -82,7 +82,7 @@ Há um claro grupo de elite em termos de eficiência de goleiras, liderado por *
 
 ---
 
-[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGExNTk1NTQtMGNmNS00NmQ3LTlhNzktMWUzYTdiODk1MjU5IiwidCI6ImE5MWY1ZjM3LThmMzMtNDNlMi04MGJhLThkNzQ5YTVkZWQ1MSJ9)
+[Dashboard]( https://app.powerbi.com/reportEmbed?reportId=744d62b4-6510-4554-9099-64707eabed41&autoAuth=true&ctid=a91f5f37-8f33-43e2-80ba-8d749a5ded51)
 
 ![Campeonato Mundial Feminino](images/26%20mundial%20feminino.png)
 
