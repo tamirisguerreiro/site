@@ -77,7 +77,7 @@ Enquanto as goleiras de alta eficiência tendem a ter alturas entre 1,75m e 1,90
 
 Há um claro grupo de elite em termos de eficiência de goleiras, liderado por Montenegro (Marta Batimovic). Esses países e atletas têm uma vantagem defensiva notável que pode ser um diferencial competitivo. A eficiência da goleira é um indicador crítico, mas precisa ser contextualizada com o desempenho defensivo da equipe. Goleiras com alto número de defesas, mas eficiência média/baixa, podem estar em equipes que cedem muitos arremessos ao gol, indicando fragilidades na defesa como um todo. Alguns países possuem goleiras com eficiências bastante distintas (e.g., Noruega com Solberg e Lunde; França com Sako e Glauser), o que pode indicar rotação ou hierarquia de desempenho definida pela comissão técnica. Desafios para Países de Baixa Eficiência: Os países no final da lista (Congo, R.P. da China, Polônia, etc.) provavelmente enfrentam desafios tanto na eficiência de suas goleiras quanto, possivelmente, na capacidade de suas defesas de limitar os arremessos dos adversários, necessitando de um olhar mais aprofundado na estratégia defensiva. A altura não é o fator primordial para a eficiência da goleira. Isso reforça que atributos como técnica de defesa, agilidade, posicionamento e capacidade de leitura do jogo são mais relevantes para o sucesso na posição.
 
-[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjM2MGRhNTgtNzg5Zi00MDRmLThjYzgtNDYwNTYxYzMwMWRhIiwidCI6ImE5MWY1ZjM3LThmMzMtNDNlMi04MGJhLThkNzQ5YTVkZWQ1MSJ9)
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzljMWYwYzEtYTMzMC00ZDA3LTliZjktY2I3OTRhMTk0N2NjIiwidCI6ImE5MWY1ZjM3LThmMzMtNDNlMi04MGJhLThkNzQ5YTVkZWQ1MSJ9)
 
 ![Campeonato Mundial Feminino](images/26%20mundial%20feminino.png)
 
