@@ -58,9 +58,9 @@ Quando o **if** detecta que `numero_rep > 20`, o **`raise ValueError`** é ativa
 
 O **`except`** só é ativado quando o `try` falha (seja por um erro nativo ou forçado).
 
-except ValueError:
+`except` ValueError:
     print("Erro: Por favor, insira um valor válido.")
-O except ValueError é inteligente, pois ele captura dois tipos de erro com a mesma resposta amigável:
+    O except ValueError é inteligente, pois ele captura dois tipos de erro com a mesma resposta amigável:
 
 Erro de Digitação: Captura o erro nativo que ocorre quando o float(input()) tenta converter um texto não numérico.
 
