@@ -51,6 +51,28 @@ O Resultado: Se a condição for Verdadeira, o **if** aciona o... **raise**.
 O Teste: O **if** verifica estritamente: Se o número de repetições for maior que 20, a regra é violada.
 O Resultado: Se a condição for Verdadeira, o **if** aciona o... **raise**.
 
+---
+
+O Teste: O **if** verifica estritamente: Se o número de repetições for maior que 20, a regra é violada.
+O Resultado: Se a condição for Verdadeira, o **if** aciona o... **raise**.
+
+## 3. O Comando `raise` (Forçando um Erro Lógico)
+
+O comando **`raise`** é usado para interromper o código e criar um erro proposital.
+
+Quando o **if** detecta que `numero_rep > 20`, o **`raise ValueError`** é ativado.
+
+* **Por que `raise`?** O cálculo matemático em si não tem erro, mas o resultado **não será cientificamente válido** (segundo Munaro, 2002). O **`raise`** transforma esse erro lógico/científico em um **erro de programação**.
+
+---
+
+## 4. O Bloco `except` (O Tratamento Amigável)
+
+O **`except`** só é ativado quando o `try` falha (seja por um erro nativo ou forçado).
+
+```python
+except ValueError:
+    print("Erro: Por favor, insira um valor válido.")
 ## 3. O Comando `raise` (Forçando um Erro Lógico)
 
 O comando **`raise`** é usado para interromper o código e criar um erro proposital.
