@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 💪 📒Calculadora de Carga de Treino: 1RM Preditivo com o Teste de Munaro (2002)
+# 💪 📒Calculadora de Carga de Treino: 1RM 
 
 Se você treina força, já deve ter ouvido falar alguma vez sobre o teste de uma **Repetição Máxima** (RM), que é a carga máxima que você consegue levantar apenas uma única vez — um risco que não vale a pena testar em grande parcela da população.
 
@@ -46,7 +46,6 @@ if numero_rep > 20:
 
 O Resultado: Se a condição for Verdadeira, o **if** aciona o... **raise**.
 
----
 ## 3. O Comando `raise` (Forçando um Erro Lógico)
 
 O comando **`raise`** é usado para interromper o código e criar um erro proposital.
@@ -54,8 +53,6 @@ O comando **`raise`** é usado para interromper o código e criar um erro propos
 Quando o **if** detecta que `numero_rep > 20`, o **`raise ValueError`** é ativado.
 
 * **Por que `raise`?** O cálculo matemático em si não tem erro, mas o resultado **não será cientificamente válido** (segundo Munaro, 2002). O **`raise`** transforma esse erro lógico/científico em um **erro de programação**.
-
----
 
 ## 4. O Bloco `except` (O Tratamento Amigável)
 
@@ -65,11 +62,11 @@ except ValueError:
     print("Erro: Por favor, insira um valor válido.")
 O except ValueError é inteligente, pois ele captura dois tipos de erro com a mesma resposta amigável:
 
----
 Erro de Digitação: Captura o erro nativo que ocorre quando o float(input()) tenta converter um texto não numérico.
 
 Erro de Validação: Captura o erro que você forçou (raise ValueError) quando o número de repetições ultrapassou 20.
 
 Resultado: Em vez de o programa "quebrar", o usuário recebe uma mensagem amigável informando que ele precisa seguir as regras do teste para ter um resultado preciso.
 
-Calculadora de Treino (Abrir no Colab)
+[Abrir Calculadora de Treino](https://colab.research.google.com/drive/12vrD7U-XEmPX126PDuqfB8JvwGBzA_XI?usp=sharing)
+
