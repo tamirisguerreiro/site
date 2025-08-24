@@ -19,7 +19,7 @@ Este projeto **analisou dados de atletas de handebol** para criar um perfil deta
 
 
 ---
-## [Projeto: Calculadora de Carga de Treino 1RM](./calculadoracargadetreino.md)
+## [Projeto:💪Deixando o Treino de Força Cientificamente Seguro com Python🏋️](./calculadoracargadetreino.md)
 
 Este projeto **desenvolveu uma ferramenta interativa** para estimar a carga de **1 Repetição Máxima (1RM)** de um indivíduo, utilizando a fórmula validada por **Munaro (2002)**. A calculadora garante **segurança e validade científica** ao aplicar o **tratamento de erros (`try`/`except`)** do Python para impor a **Regra de Ouro** do teste: o cálculo só é executado se as repetições forem **menor ou igual a 20**. Isso previne resultados imprecisos e erros de digitação, transformando a regra de validade científica em uma regra de programação obrigatória.
 
