@@ -26,7 +26,7 @@ Veja como a mágica do código acontece!
 
 # 🚀 Passo a Passo:
 
-## 1. O Bloco `try` (Tentativa e Risco)
+## 1. O Bloco `try` 
 
 O `try` é o ponto de partida. Ele tenta executar um bloco de código que pode gerar erros.
 
@@ -46,7 +46,7 @@ if numero_rep > 20:
 
 O Resultado: Se a condição for Verdadeira, o **if** aciona o... **raise**.
 
-## 3. O Comando `raise` (Forçando um Erro Lógico)
+## 3. O Comando `raise` 
 
 O comando **`raise`** é usado para interromper o código e criar um erro proposital.
 
@@ -54,7 +54,7 @@ Quando o **if** detecta que `numero_rep > 20`, o **`raise ValueError`** é ativa
 
 * **Por que `raise`?** O cálculo matemático em si não tem erro, mas o resultado **não será cientificamente válido** (segundo Munaro, 2002). O **`raise`** transforma esse erro lógico/científico em um **erro de programação**.
 
-## 4. O Bloco `except` (O Tratamento Amigável)
+## 4. O Bloco `except` 
 
 O **`except`** só é ativado quando o `try` falha (seja por um erro nativo ou forçado).
 
