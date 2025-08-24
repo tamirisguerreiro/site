@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 💪 📒Calculadora de Carga de Treino: 1RM 
+# 💪 Deixando o Treino de Força Cientificamente Seguro com Python! 🏋️
 
 Se você treina força, já deve ter ouvido falar alguma vez sobre o teste de uma **Repetição Máxima** (RM), que é a carga máxima que você consegue levantar apenas uma única vez — um risco que não vale a pena testar em grande parcela da população.
 
