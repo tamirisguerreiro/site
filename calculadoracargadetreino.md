@@ -59,4 +59,5 @@ Erro de Digitação: Captura o erro nativo que ocorre quando o float(input()) te
 
 Erro de Validação: Captura o erro que você forçou (raise ValueError) quando o número de repetições ultrapassou 20.
 
-jupyter nbconvert --to markdown calculadoradetreino.ipynb
+[Calculadora de Treino (GitHub)](https://github.com/tamirisguerreiro/site/blob/main/calculadoradetreino.ipynb)
+
