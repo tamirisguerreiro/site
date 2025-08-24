@@ -47,19 +47,18 @@ if numero_rep > 20:
 
 O Resultado: Se a condição for Verdadeira, o **if** aciona o... **raise**.
 
-## 3. O Comando `raise` (Forçando um Erro Lógico)
+3. O Comando raise (Forçando um Erro Lógico)
+O comando raise é usado para interromper o código e criar um erro proposital.
 
-O comando **`raise`** é usado para interromper o código e criar um erro proposital.
+Quando o if detecta que numero_rep > 20, o raise ValueError é ativado.
 
-Quando o **if** detecta que `numero_rep > 20`, o **`raise ValueError`** é ativado.
+Por que raise? O cálculo matemático em si não tem erro, mas o resultado não será cientificamente válido (segundo Munaro, 2002). O raise transforma esse erro lógico/científico em um erro de programação.
 
-* **Por que `raise`?** O cálculo matemático em si não tem erro, mas o resultado **não será cientificamente válido** (segundo Munaro, 2002). O **`raise`** transforma esse erro lógico/científico em um **erro de programação**.
+4. O Bloco except (O Tratamento Amigável)
+O except só é ativado quando o try falha (seja por um erro nativo ou forçado).
 
-## 4. O Bloco `except` (O Tratamento Amigável)
+Python
 
-O **`except`** só é ativado quando o `try` falha (seja por um erro nativo ou forçado).
-
-```python
 except ValueError:
     print("Erro: Por favor, insira um valor válido.")
 O except ValueError é inteligente, pois ele captura dois tipos de erro com a mesma resposta amigável:
@@ -68,5 +67,6 @@ Erro de Digitação: Captura o erro nativo que ocorre quando o float(input()) te
 
 Erro de Validação: Captura o erro que você forçou (raise ValueError) quando o número de repetições ultrapassou 20.
 
-[Calculadora de Treino (Abrir no Colab)](https://colab.research.google.com/drive/12vrD7U-XEmPX126PDuqfB8JvwGBzA_XI?usp=sharing)
+Resultado: Em vez de o programa "quebrar", o usuário recebe uma mensagem amigável informando que ele precisa seguir as regras do teste para ter um resultado preciso.
 
+Calculadora de Treino (Abrir no Colab)
