@@ -59,5 +59,5 @@ Erro de Digitação: Captura o erro nativo que ocorre quando o float(input()) te
 
 Erro de Validação: Captura o erro que você forçou (raise ValueError) quando o número de repetições ultrapassou 20.
 
-[Rodar a Calculadora de Treino (Ao Vivo)](SEU_LINK_GERADO_PELO_BINDER)
+[Rodar a Calculadora de Treino (Ao Vivo)](https://mybinder.org/v2/gh/tamirisguerreiro/site/main?lab=true&filepath=calculadoradetreino.ipynb)
 
