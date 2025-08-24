@@ -14,9 +14,7 @@ Felizmente, a ciência do esporte tem métodos para **predizer essa carga máxim
 
 A fórmula usada é uma variação da famosa equação de Epley:
 
-
-$$RM_{preditivo} = (0.0333 \times número_{repetições} \times carga_{utilizada}) + carga_{utilizada}$$
-
+$RM_{preditivo} = (0.0333 \times número_{repetições} \times carga_{utilizada}) + carga_{utilizada}$
 
 ⚠️ **Atenção à Regra de Validade:** De acordo com o estudo, essa predição só é válida se a carga utilizada permitir um número de repetições **menor ou igual a 20!** Acima disso, não será possível realizar o cálculo como previsto.
 
