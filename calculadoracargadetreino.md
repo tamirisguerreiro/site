@@ -40,7 +40,6 @@ O que está no `try`:
 
 A função `if` é a validade científica do cálculo.
 
-```python
 if numero_rep > 20:
     raise ValueError("A carga não pode ser maior que 20 repetições.")
     O Teste: O **if** verifica estritamente: Se o número de repetições for maior que 20, a regra é violada.
