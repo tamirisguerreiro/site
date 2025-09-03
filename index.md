@@ -25,7 +25,7 @@ Este projeto **desenvolveu uma ferramenta interativa** para estimar a carga de *
 
 
 ---
-## [💡 Chega de treinar no escuro!](./vam.md)
+## [Projeto:💡 Chega de treinar no escuro!](./vam.md)
 
 Este projeto **desenvolveu uma calculadora de zonas de treinamento de corrida** que utiliza a **Velocidade Aeróbica Máxima (VAM)** para criar guias de treino personalizados. A ferramenta garante a confiabilidade dos dados através do uso do tratamento de erros em Python (`try`/`except`). Essa abordagem protege a entrada de dados do usuário contra valores não numéricos (ValueError), assegurando que apenas informações válidas sejam usadas para os cálculos. O resultado é um guia de treinamento preciso e individualizado.
 
