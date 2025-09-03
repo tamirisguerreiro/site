@@ -39,3 +39,5 @@ O `except` é para resolver problemas se algo der errado no bloco `try`.
 **O Resultado:**
 
 Em vez de o programa travar e exibir uma mensagem técnica de erro, o usuário recebe uma mensagem clara e objetiva para resolver o problema apresentado: `print("Erro: Por favor, insira um valor numérico para a VAM.")`.
+
+[Abrir Velocidade Aeróbica Máxima](https://colab.research.google.com/drive/1va0C7A1hZIgFH8lKwo9zjTtMp2hQLSkJ?usp=sharing)
