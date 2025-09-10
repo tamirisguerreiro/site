@@ -46,6 +46,6 @@ Este notebook demonstra a coleta e análise de dados de desempenho de atletas de
 
 Importamos as bibliotecas necessárias: `pandas` para manipulação de dados e `BeautifulSoup` para web scraping.
 
-(https://raw.githubusercontent.com/tamirisguerreiro/site/main/images/webscrapingvolei.png)
+![webscrapingvolei](https://raw.githubusercontent.com/tamirisguerreiro/site/main/images/webscrapingvolei.png)
 
 [Python Código - Clique Aqui](https://github.com/tamirisguerreiro/site/blob/main/images/Estatisticas%20Melhores%20Atacantes%20Mundial%20Feminino%2025.md)
