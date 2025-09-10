@@ -89,6 +89,6 @@ A análise conjunta dos dados traça um perfil coeso da equipe, onde cada posiç
 
 [**Clique Aqui para Ver o Dashboard do Mundial de Handebol Masculino 2025**](https://app.powerbi.com/view?r=eyJrIjoiZjc1NGE0NzQtYmQ4YS00MTdmLWEwZDktMTg5YTcxNTMwYmQxIiwidCI6ImE5MWY1ZjM3LThmMzMtNDNlMi04MGJhLThkNzQ5YTVkZWQ1MSJ9)
 
-![Mundial Masculino 2025](https://raw.githubusercontent.com/tamirisguerreiro/site/main/images/26%20mundial%20masculino%202025.png) 
+![Mundial Masculino 2025](https://raw.githubusercontent.com/tamirisguerreiro/site/main/images/mundial masculino 2025.png) 
 
 [Página Inicial](https://tamirisguerreiro.github.io/site)
