@@ -47,6 +47,7 @@ Este notebook demonstra a coleta e análise de dados de desempenho de atletas de
 Importamos as bibliotecas necessárias: `pandas` para manipulação de dados e `BeautifulSoup` para web scraping.
 
 ```python
+
 import pandas as pd
 from bs4 import BeautifulSoup
 
@@ -97,3 +98,4 @@ melhores.to_csv('melhores_atletas.csv', encoding='utf-8')
 
 print('Executado com Sucesso!')
 
+```python
