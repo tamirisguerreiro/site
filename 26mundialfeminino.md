@@ -82,8 +82,10 @@ Há um claro grupo de elite em termos de eficiência de goleiras, liderado por *
 
 ---
 
+![Mundial Feminino](https://raw.githubusercontent.com/tamirisguerreiro/site/main/images/26 mundial feminino.png)
+
 [**Clique Aqui para Ver o Dashboard do Mundial de Handebol Feminino**](https://app.powerbi.com/view?r=eyJrIjoiNzM0MWU1YWQtYzYxMy00ODk4LTgxMGEtNzlkZmQ2MTZkMWVmIiwidCI6ImE5MWY1ZjM3LThmMzMtNDNlMi04MGJhLThkNzQ5YTVkZWQ1MSJ9)
 
-[Home](https://tamirisguerreiro.github.io/site)
+[Página Inicial](https://tamirisguerreiro.github.io/site)
 
 ---
