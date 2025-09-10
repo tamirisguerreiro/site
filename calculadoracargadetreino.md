@@ -70,3 +70,4 @@ Resultado: Em vez de o programa "quebrar", o usuário recebe uma mensagem amigá
 
 [Abrir Calculadora de Treino](https://colab.research.google.com/drive/12vrD7U-XEmPX126PDuqfB8JvwGBzA_XI?usp=sharing)
 
+[Página Inicial](https://tamirisguerreiro.github.io/site)
