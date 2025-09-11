@@ -31,7 +31,7 @@ Este projeto **desenvolveu uma calculadora de zonas de treinamento de corrida** 
 
 
 ---
-## [Projeto: Decifrando o Ataque: O Que os Números Revelam - Utilizando Web Scraping 🏐👧](volei_ataque25.md)
+## [Projeto: Decifrando o Ataque: O Que os Números Revelam - Utilizando Web Scraping 🏐👧](./volei_ataque25.md)
 
 Este projeto analisou o **desempenho** de atacantes no **Mundial de Vôlei Feminino 2025** através do Web Scraping de dados da plataforma Volleyballworld. A ferramenta coletou estatísticas de jogadoras com **mais de 170 tentativas de ataque**, filtrando-as por seu desempenho para identificar as **melhores atacantes**. Utilizando as bibliotecas (`BeautifulSoup` e `Pandas` em Python, os dados brutos foram extraídos e transformados em um ranking com métricas como **% de Sucesso**, **% de Erros** e **% de Tentativas**. O resultado final é um arquivo CSV (melhores_atletas.csv), que oferece uma análise precisa e estruturada do desempenho ofensivo das atletas.
 
