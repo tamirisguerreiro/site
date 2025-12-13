@@ -38,7 +38,7 @@ Este projeto analisou o **desempenho** de atacantes no **Mundial de Vôlei Femin
 
 
 ---
-## [Projeto: 📉 Decifrando o Rebaixamento: O Que os Gráficos de xGD/90 e xGA Apresentam - Análise Estatística Avançada](./brasileiraorebaixamento.md)
+## [Projeto: 📉 Análise Estatística Avançada: O Que os Gráficos de xGD/90 e xGA Apresentam](./brasileiraorebaixamento.md)
 
 Este projeto consistiu em uma **Análise Estatística Avançada** para mapear o desempenho e a tendência de rebaixamento dos times no **Campeonato Brasileiro Betano 2025 (Rodadas 29, 30 e 38)**. Através do método ETL (Extract, Transform, Load), os dados de desempenho foram extraídos por Web Scraping em R da plataforma FBref e processados em Power Query/Power BI (utilizando R Studio e Power BI). O objetivo central foi comparar a posição dos times no gráfico xGD/90 vs. xGA, identificando o Quadrante de Maior Perigo (Inferior-Esquerdo). O resultado final é uma análise comparativa (R29, R30, R38) que detalha a Estabilidade no Risco e a Performance de Escape das equipes, revelando os rebaixamentos por Ineficiência Estatística (Sport, Juventude), por Falta de Pontos (Ceará, Fortaleza) e as anomalias de alta performance/alto risco (Internacional, Grêmio), oferecendo uma análise precisa e estruturada do risco técnico versus o rebaixamento real.
 
