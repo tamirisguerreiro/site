@@ -51,10 +51,8 @@ Criação de novas colunas:
 ## Visualização e Insights
 
 Dashboard:
-* Gráficos de Dispersão: Dispersão xGD/90 e xGA
-* Gráficos de Tabela: Tabela de Classifiação e Métricas Avançadas
-* **Interpretação de Dados Visuais** (Gráfico de Dispersão)
-* **Métricas Avançadas de Futebol** (Ciência de Dados Esportivos)
+* **Interpretação de Dados Visuais**  Gráficos de Dispersão: Dispersão xGD/90 e xGA
+* **Métricas Avançadas de Futebol** Gráficos de Tabela: Tabela de Classifiação e Métricas Avançadas 
 
 ---
 
@@ -92,25 +90,25 @@ Os resultados foram consolidados em uma visão progressiva da Rodada 29, Rodada 
 
 # Síntese da Análise Gráfica 
 
-## Rebaixamento por Ineficiência Total (Sport e Juventude)
+## Rebaixamento por Ineficiência Estatística (Sport e Juventude)
 
-> O **Sport Recife** e o **Juventude** foram os times com o pior desempenho técnico. Eles ocuparam o quadrante inferior esquerdo com os valores de $xGA$ mais altos e $xG/90$ mais negativos, indicando que sofreram muitas chances de gol e criaram poucas, sendo **consistentemente os mais vulneráveis** do campeonato.
+O **Sport Recife** e o **Juventude** foram os times com o pior desempenho técnico. Eles ocuparam o quadrante inferior esquerdo com os valores de $xGA$ mais altos e $xG/90$ mais negativos, indicando que sofreram muitas chances de gol e criaram poucas, sendo **consistentemente os mais vulneráveis** do campeonato.
 
 ## Rebaixamento por Falta de Pontos (Ceará e Fortaleza)
 
-> **Ceará** e **Fortaleza** caíram com desempenho gráfico melhor do que os lanternas. O Ceará, em particular, tinha uma performance técnica quase mediana. Isso demonstra que, apesar de não serem os piores tecnicamente pelas métricas $xG/xGA$, a **falta de pontuação acumulada** foi o fator decisivo para a queda.
+**Ceará** e **Fortaleza** caíram com desempenho gráfico melhor do que os lanternas. O Ceará, em particular, tinha uma performance técnica quase mediana. Isso demonstra que, apesar de não serem os piores tecnicamente pelas métricas $xG/xGA$, a **falta de pontuação acumulada** foi o fator decisivo para a queda.
 
-## Grêmio: Pontos Acumulados vs. Risco Defensivo
+## Pontos Acumulados vs. Risco Defensivo
 
-> O **Grêmio** garantiu a permanência pela pontuação acumulada, desafiando suas próprias métricas técnicas. Esteve consistentemente no quadrante de risco (alto $xGA$, baixo $xGD/90$), com o pior $xGA$ da liga na R38. Sua segurança foi fruto de overperformance em momentos cruciais ou de sorte, e não de uma solidez defensiva esperada ($xGA$). O time fugiu da Z-4 apesar dos números.
+O **Grêmio** garantiu a permanência pela pontuação acumulada, desafiando suas próprias métricas técnicas. Esteve consistentemente no quadrante de risco (alto $xGA$, baixo $xGD/90$), com o pior $xGA$ da liga na R38. Sua segurança foi fruto de overperformance em momentos cruciais ou de sorte, e não de uma solidez defensiva esperada ($xGA$). O time fugiu da Z-4 apesar dos números.
 
-## Vitória:  O "Escape" Técnico e Risco Defensivo 
+## O "Escape" na Margem e Risco Defensivo 
 
-> O Vitória flertou de perto com o rebaixamento (17º lugar em todas as rodadas). No gráfico, situou-se no quadrante de risco (inferior esquerdo) com alto $xGA$, o que confirmou a fragilidade defensiva. Sua permanência foi um "escape" pela margem da tabela, totalmente justificado pelas métricas técnicas que indicavam um forte risco de queda.📊 
+O **Vitória** flertou de perto com o rebaixamento (17º lugar em todas as rodadas). No gráfico, situou-se no quadrante de risco (inferior esquerdo) com alto $xGA$, o que confirmou a fragilidade defensiva. Sua permanência foi um "escape" pela margem da tabela, totalmente justificado pelas métricas técnicas que indicavam um forte risco de queda. 
 
-## Internacional: Anomalia de Alta Performance 
+## Anomalia de Alta Performance 
 
-> O Internacional é a principal anomalia estatística da liga, ocupando o quadrante de melhor desempenho técnico (alto $xGD/90$, baixo $xGA$). Contraditoriamente, flertou com o rebaixamento (16º na R38). Isso indica uma extrema underperformance: o time gerou qualidade de chances para estar no topo, mas falhou catastroficamente na conversão ofensiva (GA), provando que $xG$ de qualidade não substitui a finalização.
+O Internacional é a principal anomalia estatística, ocupando o quadrante de melhor desempenho técnico (alto $xGD/90$, baixo $xGA$). Contraditoriamente, flertou com o rebaixamento (16º na R38). Isso indica uma extrema underperformance: o time gerou qualidade de chances para estar no topo, mas falhou catastroficamente na conversão ofensiva (GA), provando que $xG$ de qualidade não substitui a finalização.
 
 ---
 
