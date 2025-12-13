@@ -46,7 +46,7 @@ Criação de novas colunas:
 # Visualização e Insights
 
 Dashboard:
-* Gráficos de Treemap: Top EficiÊncia
+* Gráficos de Treemap: Top Eficiência
 * Cartões: Média das Variáveis
 
 # Resultados Obtidos
