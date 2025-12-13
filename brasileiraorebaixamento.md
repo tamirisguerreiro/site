@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 📉 Decifrando o Rebaixamento: O Que os Gráficos de xGD/90 e xGA Apresentam
+# 📉 Análise Estatística Avançada: O Que os Gráficos de xGD/90 e xGA Apresentam
 
 ---
 *Base de dados:* Campeonato Brasileiro Betano 2025 (Rodadas 29, 30 e 38)
