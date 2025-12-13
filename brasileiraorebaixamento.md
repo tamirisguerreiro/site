@@ -12,7 +12,7 @@ layout: default
 ---
 
 # Objetivo
-Extrair e comparar a posição dos times no gráfico de **Desempenho Ofensivo** ($xG/90$) vs. **Risco Defensivo** ($xGA$), identificando o **Quadrante de Maior Perigo (Inferior-Esquerdo)** e a correlação entre o desempenho técnico ($xG$/$xGA$) e o rebaixamento real.
+Extrair e comparar a posição dos times no gráfico de **Desempenho Ofensivo** ($xG/90$) vs. **Risco Defensivo** ($xGA$), identificando o **Quadrante de Maior Perigo (Inferior-Esquerdo)** e a correlação entre o desempenho técnico ($xG/xGA$) e o rebaixamento real.
 
 * **Eixo X ($xG/90$):** Eficiência Ofensiva (Quanto mais à direita, melhor).
 * **Eixo Y ($xGA$):** Risco Defensivo (Quanto mais para cima/valor menor, melhor).
