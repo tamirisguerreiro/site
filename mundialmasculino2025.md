@@ -6,6 +6,7 @@ layout: default
 
 ---
 *Base de dados:* IHF Handball World Champioship 2025 Goalscorers
+
 *Sobre o dataset:* Este conjunto de dados detalha o perfil e o desempenho de jogadores de handebol, organizados por suas posições no time. 
 Inclui informações físicas (peso, altura, idade) e estatísticas de arremesso (gols, tentativas e eficiência) tanto em jogo corrido quanto em cobranças de 7 metros.
 
