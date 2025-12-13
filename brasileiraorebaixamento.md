@@ -86,7 +86,7 @@ Os resultados foram consolidados em uma visão progressiva da Rodada 29, Rodada 
 | **Juventude** | 18º | 19º | 19º | **REBAIXADO** | Estabilidade no Risco. Sempre no quadrante mais perigoso (baixo $xG/90$, alto $xGA$) nas três rodadas analisadas. |
 | **Fortaleza** | 19º | 18º | 18º | **REBAIXADO** | Risco Ofensivo. $xGA$ final (56,7) melhor que Sport/Juventude, mas com $xG/90$ negativo (-0,31). |
 | **Ceará** | 13º | 14º | 17º | **REBAIXADO** | Queda por Pontos. Melhor desempenho técnico entre os rebaixados, com $xG/90$ quase zero e $xGA$ relativamente baixo. Caiu pela pontuação acumulada. |
-| **Grêmio** | 12º | 11º | 9º | **ESCAPOU** | Alerta Defensivo Extremo. Apresentou o pior $xGA$ do campeonato na R38 (cerca de 59), indicando defesa altamente exposta. |
+| **Grêmio** | 12º | 11º | 9º | **ESCAPOU** | Alerta Defensivo Extremo. Apresentou um dos piores $xGA$ do campeonato na R38 (cerca de 59), indicando defesa altamente exposta. |
 | **Vitória** | 17º | 17º | 15º | **ESCAPOU** | Escapada Crítica. No limite do quadrante perigoso na R29/R30. $xGA$ alto (53,3). |
 | **Internacional** | 14º | 15º | 16º | **ESCAPOU** | Performance Técnica Forte. Desempenho no quadrante Superior-Direito ($xG/90$ positivo na R38). |
 
@@ -105,19 +105,19 @@ O **Sport Recife** e o **Juventude** foram os times com o pior desempenho técni
 
 ## Pontos Acumulados vs. Risco Defensivo
 
-O **Grêmio** garantiu a permanência pela pontuação acumulada, desafiando suas próprias métricas técnicas. Esteve consistentemente no quadrante de risco (alto $xGA$, baixo $xGD/90$), com o pior $xGA$ da liga na R38. Sua segurança foi fruto de overperformance em momentos cruciais ou de sorte, e não de uma solidez defensiva esperada ($xGA$). O time fugiu da Z-4 apesar dos números.
+O **Grêmio** garantiu a permanência pela pontuação acumulada, desafiando suas próprias métricas técnicas. Esteve consistentemente no quadrante de risco (alto $xGA$, baixo $xGD/90$), com o pior $xGA$ da liga na R38. Sua segurança foi fruto de overperformance em momentos cruciais, e não de uma solidez defensiva esperada ($xGA$). O time fugiu da Z-4 apesar dos números.
 
 ## O "Escape" na Margem e Risco Defensivo 
 
-O **Vitória** flertou de perto com o rebaixamento (17º lugar em todas as rodadas). No gráfico, situou-se no quadrante de risco (inferior esquerdo) com alto $xGA$, o que confirmou a fragilidade defensiva. Sua permanência foi um "escape" pela margem da tabela, totalmente justificado pelas métricas técnicas que indicavam um forte risco de queda. 
+O **Vitória** flertou de perto com o rebaixamento (17º lugar nas rodadas 29 e 30). No gráfico, situou-se no quadrante de risco (inferior esquerdo) com alto $xGA$, o que confirmou a fragilidade defensiva. Sua permanência foi um "escape" pela margem da tabela, onde as métricas técnicas indicavam um forte risco de queda. 
 
 ## Anomalia de Alta Performance 
 
-O **Internacional** é a principal anomalia estatística, ocupando o quadrante de melhor desempenho técnico (alto $xGD/90$, baixo $xGA$). Contraditoriamente, flertou com o rebaixamento (16º na R38). Isso indica uma extrema underperformance: o time gerou qualidade de chances para estar no topo, mas falhou catastroficamente na conversão ofensiva (GA), provando que $xG$ de qualidade não substitui a finalização.
+O **Internacional** é a principal anomalia estatística, ocupando o quadrante de melhor desempenho técnico (alto $xGD/90$, baixo $xGA$). Contraditoriamente, flertou com o rebaixamento (16º na R38). O time gerou qualidade de chances para estar no topo do gráfico, mas falhou ao final do campeonato. Provando que $xG$ de qualidade não substitui a finalização.
 
 ---
 
 
 # 🔎 Conclusão: Dados Quantitativos vs. Qualitativos no Futebol
 
-A análise apresentada focou estritamente em métricas avançadas quantitativas ($xGA, xGD/90, Diferença GA - xGA $), onde os dados brutos nos fornecem informações valiosas sobre a performance estatística e o risco técnico das equipes, revelando o que "deveria" ter acontecido. Contudo, é crucial reconhecer que o esporte é igualmente moldado por dados qualitativos — como motivação, coesão de vestiário, impacto da comissão técnica, erros de arbitragem, e momentos de pura genialidade ou falha individual —, fatores que são difíceis de quantificar e que não foram reportados nesta análise, mas que inegavelmente influenciam a pontuação final e a realidade da tabela.
+A análise apresentada focou estritamente em métricas avançadas quantitativas ($xGA, xGD/90, Diferença GA - xGA$), onde os dados brutos nos fornecem informações valiosas sobre a performance estatística e o risco técnico das equipes, revelando o que "deveria" ter acontecido. Contudo, é crucial reconhecer que o esporte é igualmente moldado por dados qualitativos — como motivação, impacto da comissão técnica, erros de arbitragem, e momentos de pura genialidade ou falha individual —, fatores que não foram reportados nesta análise, mas que inegavelmente influenciam a pontuação final e a realidade da tabela.
