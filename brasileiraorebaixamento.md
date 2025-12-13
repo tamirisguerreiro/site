@@ -21,18 +21,50 @@ Extrair e comparar a posição dos times no gráfico de **Desempenho Ofensivo** 
 ---
 
 # Ferramentas Utilizadas
+
+* **R Studio**
+* **Power BI**
+* **Power Query**
+
+Utilizei o método **ETL** para tratamento dos dados e a interpretação de dados visuais (Gráficos de Dispersão $xG/90$ vs. $xGA$) para mapear a performance..
+
+## 1. Extração (Extract)
+Fonte de dados: Scraping em R da página FBref.
+
+Ações realizadas:
+* Importação do dataset em CSV
+* Verificação inicial da estrutura, qualidade e tipo dos dados
+
+## 2. Transformação (Transform)
+Padronização de dados:
+
+* Tradução de colunas (inglês → português) usando `Replace Values`
+* Ajuste de tipos de dados
+
+## 3. Carregamento (Load)
+Modelagem no Power BI:
+
+Criação de novas colunas:
+* Diferenciando colunas e extraindo novas medidas para criação de colunas para melhor detalhamento do dataset.
+* Criação de Medidas Calculadas: Utilizei a função `SUM`.
+
+## Visualização e Insights
+
+Dashboard:
+* Gráficos de Dispersão: Dispersão xGD/90 e xGA
+* Gráficos de Tabela: Tabela de Classifiação e Métricas Avançadas
 * **Interpretação de Dados Visuais** (Gráfico de Dispersão)
 * **Métricas Avançadas de Futebol** (Ciência de Dados Esportivos)
 
 ---
 
 # Principais Etapas
-Utilizamos a interpretação de dados visuais (Gráficos de Dispersão $xG/90$ vs. $xGA$) para mapear a performance.
 
 ## 1. Definição das Métricas
 Métricas Avançadas:
-* **$xG/90$** (Gols Esperados por Jogo)
+* **$xG/90$** (Gols Esperados por 90 minutos)
 * **$xGA$** (Gols Esperados Contra)
+* **$Diferença GA - xGA$** (Diferencial de Desempenho Defensivo)
 
 ## 2. Análise Preditiva
 O quadrante inferior-esquerdo atua como um forte indicador de **risco de rebaixamento** (vulnerabilidade técnica).
@@ -44,7 +76,7 @@ Comparação das posições dos times nas Rodadas 29, 30 e 38, focando nos times
 
 # 🔍 Critérios de Classificação e Resultados
 
-Os resultados foram consolidados em uma visão progressiva da Rodada 29 à Rodada 38, destacando a **Estabilidade no Risco** e a **Performance de Escape**. 
+Os resultados foram consolidados em uma visão progressiva da Rodada 29, Rodada 30, Rodada 38, destacando a **Estabilidade no Risco** e a **Performance de Escape**. 
 
 | Time | Rodada 29 (Rk) | Rodada 30 (Rk) | Rodada 38 (Rk) | Status Final | Observação do Desempenho no Gráfico ($xG/xGA$) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -58,7 +90,7 @@ Os resultados foram consolidados em uma visão progressiva da Rodada 29 à Rodad
 
 ---
 
-# Conclusão: Síntese da Análise Gráfica (Rodada 38)
+# Síntese da Análise Gráfica 
 
 ## Rebaixamento por Ineficiência Total (Sport e Juventude)
 
@@ -68,8 +100,20 @@ Os resultados foram consolidados em uma visão progressiva da Rodada 29 à Rodad
 
 > **Ceará** e **Fortaleza** caíram com desempenho gráfico melhor do que os lanternas. O Ceará, em particular, tinha uma performance técnica quase mediana. Isso demonstra que, apesar de não serem os piores tecnicamente pelas métricas $xG/xGA$, a **falta de pontuação acumulada** foi o fator decisivo para a queda.
 
-## O "Escape" Técnico e Risco Defensivo Extremo (Grêmio e Vitória)
+## Grêmio: Pontos Acumulados vs. Risco Defensivo
 
-> O **Grêmio** e o **Vitória** escaparam do rebaixamento pela pontuação. Contudo, ambos flertaram com a zona de perigo no gráfico, principalmente devido ao $xGA$ extremamente alto (Grêmio com o pior da liga na R38). Isso sugere que a segurança na tabela foi garantida por *overperformance* defensiva (goleiro/defesa se saindo melhor que o esperado) ou mérito ofensivo, e não pela **solidez defensiva consistente**.
+> O **Grêmio** garantiu a permanência pela pontuação acumulada, desafiando suas próprias métricas técnicas. Esteve consistentemente no quadrante de risco (alto $xGA$, baixo $xGD/90$), com o pior $xGA$ da liga na R38. Sua segurança foi fruto de overperformance em momentos cruciais ou de sorte, e não de uma solidez defensiva esperada ($xGA$). O time fugiu da Z-4 apesar dos números.
+
+## Vitória:  O "Escape" Técnico e Risco Defensivo 
+
+> O Vitória flertou de perto com o rebaixamento (17º lugar em todas as rodadas). No gráfico, situou-se no quadrante de risco (inferior esquerdo) com alto $xGA$, o que confirmou a fragilidade defensiva. Sua permanência foi um "escape" pela margem da tabela, totalmente justificado pelas métricas técnicas que indicavam um forte risco de queda.📊 
+
+## Internacional: Anomalia de Alta Performance 
+
+> O Internacional é a principal anomalia estatística da liga, ocupando o quadrante de melhor desempenho técnico (alto $xGD/90$, baixo $xGA$). Contraditoriamente, flertou com o rebaixamento (16º na R38). Isso indica uma extrema underperformance: o time gerou qualidade de chances para estar no topo, mas falhou catastroficamente na conversão ofensiva (GA), provando que $xG$ de qualidade não substitui a finalização.
 
 ---
+
+# 🔎 Conclusão: Dados Quantitativos vs. Qualitativos no Futebol
+
+A análise apresentada focou estritamente em métricas avançadas quantitativas ($xGA, xGD/90, Diferença GA - xGA $), onde os dados brutos nos fornecem informações valiosas sobre a performance estatística e o risco técnico das equipes, revelando o que "deveria" ter acontecido. Contudo, é crucial reconhecer que o esporte é igualmente moldado por dados qualitativos — como motivação, coesão de vestiário, impacto da comissão técnica, erros de arbitragem, e momentos de pura genialidade ou falha individual —, fatores que são difíceis de quantificar e que não foram reportados nesta análise, mas que inegavelmente influenciam a pontuação final e a realidade da tabela.
