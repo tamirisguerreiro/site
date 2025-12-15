@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 📉 A Metodologia xGD/90 & xGA: O Guia Definitivo para Decodificar a Performance de Ataque vs. Defesa de Forma Equilibrada
+# 📉 A Metodologia xGD/90 & xGA: O Guia para Decodificar a Performance de Ataque vs. Defesa de Forma Equilibrada
 
 ---
 *Base de dados:* Campeonato Brasileiro Betano 2025 (Rodadas 29, 30 e 38)
